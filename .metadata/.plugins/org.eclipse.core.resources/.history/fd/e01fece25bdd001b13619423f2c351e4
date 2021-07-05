@@ -1,0 +1,5 @@
+package com.training.workshop.services;
+
+public interface CustomerService {
+
+}

@@ -1,0 +1,5 @@
+package com.training.workshop.model;
+
+public class Customer {
+
+}
