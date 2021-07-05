@@ -692,3 +692,339 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 09:57:18.259
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:22:57.122
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:22:57.123
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:22:57.124
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o5-customer-service-spring-boot false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:22:57.124
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:22:57.167
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 10:22:57.176
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:22:58.013
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:23:11.714
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:23:11.716
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:23:11.717
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:23:11.718
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o5-customer-service-spring-boot false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:23:11.718
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 10:23:11.797
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 10:23:24.347
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:27:45.819
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:27:47.484
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:27:47.610
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:30:37.995
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:30:38.615
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:31:30.174
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:31:30.822
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:33:19.961
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 10:33:20.687
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:11:49.958
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:11:50.238
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:05.259
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-07-05 11:15:05.682
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-07-05 11:15:05.682
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-07-05 11:15:05.682
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-07-05 11:15:05.683
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-07-05 11:15:05.683
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:15:06.433
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:15:06.433
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:15:06.434
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:15:06.434
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY Activator 1 0 2021-07-05 11:15:06.434
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:15:06.449
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 11:15:06.722
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:15:06.788
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:15:06.797
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:15:08.227
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:34.225
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:38.000
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:41.680
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:42.840
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:45.310
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:46.466
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:48.977
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:50.036
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:57.995
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:58.425
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:15:59.851
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:16:02.670
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:16:04.069
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:16:05.527
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:16:14.403
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:16:15.533
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:16:15.535
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:16:15.551
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:16:16.461
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:17:22.903
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:17:24.799
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:17:24.801
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:17:24.825
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:17:25.178
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:17:25.179
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:17:25.180
+!MESSAGE classpath=8 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:17:25.180
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:17:25.180
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:17:25.184
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 11:17:25.979
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:21:27.214
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:21:28.126
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:21:28.128
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:21:28.132
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:21:28.181
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:21:28.182
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:21:28.184
+!MESSAGE classpath=10 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:21:28.184
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 10
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:21:28.184
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:21:28.191
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 11:21:29.078
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:21:29.814
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:23:40.761
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:42.464
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:42.473
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:42.501
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:23:43.085
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:43.086
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:43.087
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:43.087
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:43.087
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:43.099
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 11:23:44.044
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:23:44.197
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-05 11:23:57.938
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:57.943
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:57.943
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:57.944
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:57.944
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-05 11:23:57.956
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-05 11:23:58.548
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.736
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.739
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.796
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-05 11:23:58.847
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.893
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.897
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.968
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:58.996
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:59.044
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-05 11:23:59.046
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
