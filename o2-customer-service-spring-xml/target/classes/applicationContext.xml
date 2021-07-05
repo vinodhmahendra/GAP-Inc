@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- bean definitions here -->
+	<bean name="customerRepository"
+		class="com.training.workshop.repository.ListCustomerRepositoryImpl" />
+
+	<bean name="customerService"
+		class="com.training.workshop.services.CustomerServiceImpl" autowire="byType">
+		<!-- depends on customer repository -->
+		<!-- <property name="customerRepository" ref="customerRepository"/> --> <!-- setter method dependency injection-->
+		
+		<!-- <constructor-arg name="customerRepository" ref="customerRepository"/> --> <!-- constructor dependency injection -->
+	</bean>
+
+
+</beans>
