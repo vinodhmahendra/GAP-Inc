@@ -1,0 +1,24 @@
+message: 
+ "Hello Spring Boot"
+
+spring:
+  profiles:
+    active:
+    - production
+---
+
+spring:
+ profiles: production
+ 
+message:
+ Hello from production configuration
+ 
+ 
+---
+
+spring:
+ profiles: qa
+ 
+message:
+ Hello from QA configuration
+
