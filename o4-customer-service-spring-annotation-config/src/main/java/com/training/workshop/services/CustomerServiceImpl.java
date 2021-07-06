@@ -20,12 +20,14 @@ public class CustomerServiceImpl implements CustomerService {
 		super();
 	}
 	
-	
+//	@Autowired
 	public CustomerServiceImpl(CustomerRepository customerRepository) {
 		System.out.println("spring called a constructor to inject a customerRepository");
 		this.customerRepository = customerRepository;
 	}
 	
+	
+//	@Autowired
 	public void setCustomerRepository(CustomerRepository customerRepository) {
 		System.out.println("spring called a setter method to inject a customerRepository");
 		this.customerRepository = customerRepository;
