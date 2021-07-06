@@ -2108,3 +2108,261 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY Activator 1 0 2021-07-06 05:35:34.590
 !MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:43:02.931
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:43:02.949
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:43:02.972
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:43:02.973
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o6-simple-spring-webapp false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:43:02.974
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:43:03.070
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-06 07:43:04.374
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-07-06 07:43:04.385
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY Activator 1 0 2021-07-06 07:43:04.512
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:36.322
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:36.557
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.190
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.289
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.374
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.439
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.475
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.475
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.475
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o7-spring-boot-web false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.476
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.481
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.505
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:43.966
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.976
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.977
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o7-spring-boot-web false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:43.977
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:44.014
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-06 07:47:44.254
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:44.407
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:44.472
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:46.734
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:46.734
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.068
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.070
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.089
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.091
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.091
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o7-spring-boot-web false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.091
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.111
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.489
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.489
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.670
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:47.671
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.967
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.968
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.969
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o7-spring-boot-web false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.969
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:47.980
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-06 07:47:48.697
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:48.750
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:48.758
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:49.441
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:49.453
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:51.512
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:51.520
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:51.529
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:51.530
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:51.531
+!MESSAGE buffering callback sts4.classpath.iVOIQUdr o7-spring-boot-web false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:51.531
+!MESSAGE executing callback sts4.classpath.iVOIQUdr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 07:47:51.544
+!MESSAGE executing callback sts4.classpath.iVOIQUdr SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-06 07:47:51.809
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:47:51.818
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:04.892
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:04.893
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:05.553
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:05.554
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:40.628
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:40.629
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:41.221
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:41.235
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:57.595
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:57.596
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:58.846
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:53:58.851
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:24.299
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:24.300
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:24.886
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:24.903
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:34.469
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:34.469
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:35.109
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:35.114
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:58.688
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:58.689
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:59.269
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-06 07:54:59.284
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
