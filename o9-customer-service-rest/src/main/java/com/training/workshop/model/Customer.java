@@ -1,10 +1,19 @@
 package com.training.workshop.model;
 
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Size;
+
 public class Customer {
 	
 	private Integer id;
+	
+	@NotEmpty @Size(min = 2 , message = "First Name Should  Have Atlest 2 Characters")
 	private String firstName;
+	@NotEmpty @Size(min = 2 , message = "Last Name Should  Have Atlest 2 Characters")
 	private String lastName;
+	
+	@NotEmpty @Email( message = "Email is a required field")
 	private String email;
 	
 	
