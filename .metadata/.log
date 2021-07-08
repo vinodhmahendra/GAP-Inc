@@ -18545,3 +18545,2498 @@ java.lang.UnsupportedOperationException: No language server has registered to ha
 
 !ENTRY Activator 1 0 2021-07-08 05:41:08.631
 !MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.153
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.155
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.159
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.165
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.187
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.195
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.211
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.243
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.272
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.277
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.280
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.283
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.283
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.287
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.327
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.327
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.331
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.331
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.351
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.356
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.373
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.376
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.399
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.425
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.431
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.432
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.441
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.441
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.451
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:08.460
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.007
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.008
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.011
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.015
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.019
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.023
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.024
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.027
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.031
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.035
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.035
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.118
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.119
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.125
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.131
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.134
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.137
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.140
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.143
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.149
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.161
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.294
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.299
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.306
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.311
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.339
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.363
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.363
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.375
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.378
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.378
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.379
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.386
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.409
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.412
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.417
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.437
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.445
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.451
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.454
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.469
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.471
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.479
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.486
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.487
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.498
+!MESSAGE executing callback sts4.classpath.RRgyHArW 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.498
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:47:09.498
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.501
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.539
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.557
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.559
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.565
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.566
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.567
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.570
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.576
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.580
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.584
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:09.656
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.658
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.659
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.659
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.660
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.660
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.660
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.661
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.661
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.661
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.662
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.662
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.663
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.663
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.664
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.664
+!MESSAGE executing callback sts4.classpath.RRgyHArW 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:09.664
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:47:09.664
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.107
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.109
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.114
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.124
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.124
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.127
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.128
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.162
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.165
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.177
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.177
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.179
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.192
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.193
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.205
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.229
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.230
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.230
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.231
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.243
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.265
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.285
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.296
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.316
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.317
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.317
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.318
+!MESSAGE executing callback sts4.classpath.RRgyHArW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.318
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:47:10.318
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.318
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.319
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.319
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.320
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.321
+!MESSAGE classpath=67 entries
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.321
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.321
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.321
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.322
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.322
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.323
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.335
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.336
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.336
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.337
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.337
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.337
+!MESSAGE executing callback sts4.classpath.RRgyHArW 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:47:10.337
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:47:10.337
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.338
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.414
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.420
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.647
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.663
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.672
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.673
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.673
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.678
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.679
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.684
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.706
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:10.707
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.014
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.020
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.025
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.030
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.032
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.036
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.039
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.044
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.048
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.050
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.052
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.057
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.739
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.739
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.741
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.743
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.747
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.751
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.755
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.755
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.759
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.763
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.763
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:47:11.767
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.674
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.674
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@387b8b3c[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.674
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.744
+!MESSAGE executing callback sts4.classpath.BCZyDHYS FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:48:10.744
+!MESSAGE 
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$4(LanguageServerWrapper.java:260)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:161)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy15/jdk.proxy15.$Proxy60.executeCommand(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:36)
+	... 3 more
+Caused by: java.io.IOException: Broken pipe
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:347)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:123)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:68)
+	... 8 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.754
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.777
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.777
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.777
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.779
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.787
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.787
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.788
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.789
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.789
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.790
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.791
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.791
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.799
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.800
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.800
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.801
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.801
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.802
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.808
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.808
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.808
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.810
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.810
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.810
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.811
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.812
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.812
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.813
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.813
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.814
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.815
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.815
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.828
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.828
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.829
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.829
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.830
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.830
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.831
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.831
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.831
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.852
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.852
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.853
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.853
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.854
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.854
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.855
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.855
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.855
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.856
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.856
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.856
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.857
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.858
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.858
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.858
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.859
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.859
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.868
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.870
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.870
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.871
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.872
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.873
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.874
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.874
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.874
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.874
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.874
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.875
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:10.876
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.876
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.877
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.880
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.881
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.881
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.882
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.882
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.883
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:10.883
+!MESSAGE executing callback sts4.classpath.BCZyDHYS 25 batched events
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.479
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.520
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.524
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.527
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.529
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.567
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.571
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.575
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.575
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.579
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.599
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:48:11.606
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-08 05:48:12.464
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:553)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:542)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:871)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1694)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-07-08 05:48:13.464
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:553)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:542)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:871)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$7(LanguageServiceAccessor.java:379)
+	at java.base/java.util.stream.MatchOps$1MatchSink.accept(MatchOps.java:90)
+	at java.base/java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1715)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+	at java.base/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.anyMatch(ReferencePipeline.java:632)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:378)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.ConnectDocumentToLanguageServerSetupParticipant$2.run(ConnectDocumentToLanguageServerSetupParticipant.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.691
+!MESSAGE executing callback sts4.classpath.BCZyDHYS FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 05:48:13.691
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.BCZyDHYS'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.694
+!MESSAGE Boot LS startup time from start to initialized: 3019ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.954
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wmbscBMwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.955
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.956
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.956
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.956
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wmbscBMw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.956
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.957
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.957
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.958
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.958
+!MESSAGE classpath=77 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.961
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 10-customer-service-rest-jdbc-h2 false 77
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.961
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.962
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.963
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 11-customer-service-rest-jdbc-mysql false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.963
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.964
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.964
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 12-customer-service-rest-jpa-h2 false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.964
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.967
+!MESSAGE classpath=70 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.968
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 12-simple-web false 70
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.968
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.969
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.969
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 13-customer-service-rest-jpa-mysql false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.970
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.971
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.971
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 14-customer-service-data-rest false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.971
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.972
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 15-customer-service-rest-content-negotiation false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o1-customer-service-without-spring false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.973
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o2-customer-service-spring-xml false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o3-customer-service-spring-java-config false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.974
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o4-customer-service-spring-annotation-config false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.985
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.986
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o5-customer-service-spring-boot false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.986
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.986
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.986
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o6-simple-spring-webapp false 20
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.986
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.989
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.989
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o7-spring-boot-web false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.989
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.990
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.990
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o8-property-file false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.990
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.991
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.992
+!MESSAGE buffering callback sts4.classpath.wmbscBMw o9-customer-service-rest false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:13.992
+!MESSAGE executing callback sts4.classpath.wmbscBMw 17 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 05:48:15.506
+!MESSAGE executing callback sts4.classpath.wmbscBMw SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.245
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.246
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.246
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.247
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.247
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.251
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.251
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.251
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.251
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.252
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.252
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:12.252
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.057
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.059
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.075
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.076
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.078
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.079
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.083
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.086
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.087
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.091
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.095
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:49:13.099
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.699
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.700
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.702
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.703
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.717
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.736
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.739
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.743
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.744
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.762
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.769
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:03.776
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.305
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.331
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.356
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.361
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.364
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.365
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.366
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.366
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.373
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.380
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.383
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:54:04.435
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.609
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.610
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.610
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.611
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.611
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.611
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.611
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.612
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.612
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.612
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.613
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:31.613
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.200
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.203
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.226
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.232
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.248
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.400
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.403
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.427
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.451
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.454
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.459
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:32.496
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.285
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.286
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.286
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.286
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.286
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.287
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.287
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.287
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.287
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.288
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.288
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.288
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.890
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.936
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.948
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.951
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.967
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.967
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.974
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.977
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.979
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.984
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:56:59.996
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:57:00.000
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.298
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.299
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.303
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.304
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.305
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.305
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.306
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.306
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.306
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.306
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.307
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.314
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.927
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.934
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.945
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.955
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.968
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.968
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.985
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.989
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.989
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:03.989
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:04.016
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:04.025
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.693
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.693
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.697
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.699
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.701
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.719
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.731
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.739
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.740
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.741
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.742
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.742
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.940
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.941
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.943
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.947
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.950
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.951
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.954
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.959
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.961
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.963
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.967
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:58:57.968
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.732
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.735
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.736
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.736
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.737
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.739
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.743
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.747
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.749
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.749
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.751
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.751
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.895
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.895
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.897
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.899
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.899
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.900
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.903
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.906
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.911
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.911
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.915
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 05:59:24.915
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.704
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.704
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.711
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.714
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.727
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.732
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.732
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.732
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.732
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.733
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.734
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.734
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.970
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.975
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.979
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.982
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.982
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.987
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.991
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.991
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.992
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.994
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.994
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:31.999
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.728
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.729
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.731
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.731
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.735
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.735
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.739
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.740
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.740
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.740
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.741
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.741
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.876
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.888
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.888
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.891
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.895
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.899
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.899
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.903
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.903
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.907
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.913
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:41.913
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.944
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.945
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.946
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.946
+!MESSAGE executing callback sts4.classpath.wmbscBMw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.947
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.947
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.947
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE executing callback sts4.classpath.BCZyDHYS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE executing callback sts4.classpath.BCZyDHYS FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 06:00:59.948
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.BCZyDHYS'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE executing callback sts4.classpath.RRgyHArW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.948
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 06:00:59.948
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.949
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.949
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.950
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.950
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.951
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.951
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.951
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.952
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.952
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.952
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.953
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.953
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.953
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.954
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.954
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.954
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.955
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.955
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.956
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.956
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.956
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.956
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.957
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.957
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.959
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.959
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.960
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:00:59.960
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.961
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.962
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.962
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.963
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.963
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.964
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.964
+!MESSAGE buffering callback sts4.classpath.RRgyHArW 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.964
+!MESSAGE executing callback sts4.classpath.RRgyHArW 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.965
+!MESSAGE executing callback sts4.classpath.RRgyHArW FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 06:00:59.965
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.RRgyHArW'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.965
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.965
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.966
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.966
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.966
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.967
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.971
+!MESSAGE buffering callback sts4.classpath.BCZyDHYS 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.971
+!MESSAGE executing callback sts4.classpath.BCZyDHYS 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.971
+!MESSAGE executing callback sts4.classpath.wmbscBMw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.971
+!MESSAGE executing callback sts4.classpath.BCZyDHYS FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.972
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.972
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-08 06:00:59.972
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.BCZyDHYS'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.973
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.973
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.974
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.974
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.975
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.975
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.976
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.976
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.976
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.977
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.977
+!MESSAGE buffering callback sts4.classpath.wmbscBMw 16-greeting-service-i18n false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:00:59.978
+!MESSAGE executing callback sts4.classpath.wmbscBMw 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-08 06:01:00.043
+!MESSAGE executing callback sts4.classpath.wmbscBMw SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.868
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.885
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.895
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.912
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.923
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.923
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.939
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.939
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.943
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.947
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.951
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:00.963
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.675
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.679
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.679
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.680
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.683
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.683
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.687
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.687
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.691
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.691
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.695
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:01.702
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.905
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.905
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.905
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.911
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.915
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.915
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.919
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.919
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.923
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.931
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.931
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:05.935
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.094
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.095
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.098
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.102
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.103
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.107
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.107
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.108
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.108
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.108
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.108
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:01:06.109
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.275
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.276
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.276
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.276
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.276
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.295
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.303
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.323
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.335
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.340
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.347
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.348
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.854
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.869
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.897
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.923
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.961
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.961
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.962
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.962
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.963
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.964
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.979
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:02:24.984
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.690
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.691
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.691
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.692
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.692
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.692
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.693
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.693
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.693
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.694
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.694
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:54.694
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.287
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.296
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.296
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.297
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.297
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.298
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.299
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.328
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.355
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.359
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.387
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:03:55.395
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.946
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.947
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.947
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.947
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.947
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.948
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.948
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.948
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.948
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.948
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.949
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:06.949
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.859
+!MESSAGE Has main method computation for project '13-customer-service-rest-jpa-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.859
+!MESSAGE Has main method computation for project 'o5-customer-service-spring-boot'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.863
+!MESSAGE Has main method computation for project '12-simple-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.863
+!MESSAGE Has main method computation for project 'o9-customer-service-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.863
+!MESSAGE Has main method computation for project 'o8-property-file'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.866
+!MESSAGE Has main method computation for project '11-customer-service-rest-jdbc-mysql'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.866
+!MESSAGE Has main method computation for project '12-customer-service-rest-jpa-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.867
+!MESSAGE Has main method computation for project '14-customer-service-data-rest'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.871
+!MESSAGE Has main method computation for project '15-customer-service-rest-content-negotiation'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.875
+!MESSAGE Has main method computation for project '10-customer-service-rest-jdbc-h2'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.875
+!MESSAGE Has main method computation for project 'o7-spring-boot-web'
+
+!ENTRY Activator 1 0 2021-07-08 06:04:07.879
+!MESSAGE Has main method computation for project '16-greeting-service-i18n'
