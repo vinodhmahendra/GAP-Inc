@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.training.workshop</groupId>
-	<artifactId>10-customer-service-rest-jdbc-h2</artifactId>
+	<artifactId>22-customer-service-rest</artifactId>
 	<version>1.0</version>
-	<name>10-customer-service-rest-jdbc-h2</name>
+	<name>22-customer-service-rest</name>
 	<description>create a simple spring boot application</description>
 	<properties>
 		<java.version>11</java.version>
